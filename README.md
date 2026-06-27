@@ -1,16 +1,16 @@
-##Home Automation using Arduino and Bluetooth
+## Home Automation using Arduino and Bluetooth
 
 A smart home automation system that allows users to wirelessly control household appliances such as lights and fans using an Android smartphone. The project uses an **Arduino Uno**, **HC-05 Bluetooth Module**, and **Relay Module** to provide a simple, low-cost, and efficient home automation solution.
 
 ---
 
-##Overview
+## Overview
 
 This project demonstrates how Bluetooth communication can be integrated with an Arduino-based embedded system to remotely control electrical appliances. Commands sent from a smartphone application are received by the HC-05 Bluetooth module, processed by the Arduino, and used to switch appliances ON or OFF through a relay.
 
 ---
 
-##Features
+## Features
 
 *  Wireless control using Bluetooth
 *  Remote ON/OFF control of home appliances
