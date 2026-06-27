@@ -79,7 +79,7 @@ Android App
 ### Circuit Diagram
 
 ```markdown
-![Circuit Diagram](Images/Csystem_diagram.png)
+![Circuit Diagram](Images/system_diagram.png)
 ```
 
 
