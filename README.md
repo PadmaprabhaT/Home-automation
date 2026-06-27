@@ -78,9 +78,9 @@ Android App
 
 ### Circuit Diagram
 
-```markdown
-![Circuit Diagram](Images/system_diagram.png)
-```
+<p align="center">
+  <img src="Images/system_diagram.png" width="700">
+</p>
 
 
 
